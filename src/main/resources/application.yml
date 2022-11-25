@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: road_name_extractor
